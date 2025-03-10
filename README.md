@@ -81,24 +81,31 @@ print("RMSE= ",rmse)
 ## Output:
 
 DATASET:
+
 ![DATASET](https://github.com/user-attachments/assets/c74e5516-83bc-4f84-aefe-6169954a2dfe)
 
 Hard Values:
+
 ![Screenshot 2025-03-10 102101](https://github.com/user-attachments/assets/6900fb4a-83a8-46c2-bd02-10bf877265cb)
 
 Tail Values:
+
 ![tail](https://github.com/user-attachments/assets/f130726b-3c3a-4279-8519-a54d35100bcc)
 
 Xand Y Values:
+
 ![x and y values](https://github.com/user-attachments/assets/3dfda76d-87f6-4f91-a056-e3909078180c)
 
 Prediction of X and Y:
+
 ![Screenshot 2025-03-10 102449](https://github.com/user-attachments/assets/ff829f1f-3078-4527-bd94-4dfcebf9ae62)
 
 MSE, MAE and RMSE:
+
 ![Screenshot 2025-03-10 102520](https://github.com/user-attachments/assets/0c88b5d7-469a-4aff-8ac4-c6810ffeb4a5)
 
 Training Set:
+
 ![Screenshot 2025-03-10 102541](https://github.com/user-attachments/assets/221527cf-0404-454e-823b-ca41d36f0357)
 ![Screenshot 2025-03-10 102600](https://github.com/user-attachments/assets/9413b070-2d0d-4f44-af92-04097ed3dc47)
 
