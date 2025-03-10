@@ -29,9 +29,9 @@ step 8.stop
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
 
-Developed by: RAGALA SAI VIVEK
+Developed by: REVANTH.P
 
-RegisterNumber: 212223230163  
+RegisterNumber: 212223040143
 */
 
 import pandas as pd
